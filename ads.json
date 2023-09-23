@@ -1,1 +1,18 @@
-{}
+{
+    "project-test": {
+        "projectName": "project-test",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/oidc-projects",
+        "githubUri": "https://github.com/rizarsyi/oidc-projects",
+        "license": "MIT",
+        "lastUpdated": "1695468417744",
+        "tags": [
+            "authentication",
+            "authorization"
+        ],
+        "noDirectLaunch": []
+    }
+}
