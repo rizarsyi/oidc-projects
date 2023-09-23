@@ -1,2 +1,2 @@
-// the hello world program
+// the hello world programe
 console.log('Hello World');
